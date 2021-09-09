@@ -3,6 +3,7 @@
 # Supported tags and respective Dockerfile links
 
  - 1.0-rc-1
+ - 1.0-rc-2
 
 # What is Samba?
 
@@ -37,6 +38,9 @@ This variable is *optional*. It defines workgroup for directory sharing. Defautl
 
 **PUBLIC**  
 This variable is *optional*. It defines if a public shared directory without authetication should be made available or not. Default values is `no`. Available options: `yes`/`no`.
+
+**TZ**
+This is *optional* variable. It specifes timezone. Default value is `Europe/Zagreb`.
 
 ## Ports
 
