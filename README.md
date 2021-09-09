@@ -2,8 +2,8 @@
 
 # Supported tags and respective Dockerfile links
 
- - 1.0-rc-1
- - 1.0-rc-2
+ - [1.0-rc-1](https://github.com/dalmatialab/samba/blob/8b70bf8972044630735b080700b6c5bef3da1123/Dockerfile)
+ - [1.0-rc-2](https://github.com/dalmatialab/samba/blob/338cfa1ca4c11893c7eaf24c9296bee1a269593f/Dockerfile)
 
 # What is Samba?
 
